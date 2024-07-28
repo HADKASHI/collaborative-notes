@@ -1,0 +1,53 @@
+.notebooks-list {
+  padding: 20px;
+}
+
+.notebooks-list h2 {
+  margin-bottom: 20px;
+}
+
+.notebooks-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.notebooks-list .notebook-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.notebooks-list .notebook-name {
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+.delete-button {
+  background: none;
+  border: none;
+  color: #e74c3c;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.delete-button:hover {
+  color: #c0392b;
+}
+
+.add-notebook {
+  margin-top: 20px;
+}
+
+.add-notebook input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.add-notebook button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

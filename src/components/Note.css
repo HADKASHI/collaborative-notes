@@ -1,0 +1,39 @@
+/* src/components/Note.css */
+.note-container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.note-title-input,
+.note-content-input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.note-buttons {
+  margin-top: 10px;
+}
+
+.note-title {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.note-content {
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+.note-current-version {
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  background-color: #e9ecef;
+}
+
+.note-current-version p {
+  margin: 5px 0;
+}

@@ -1,0 +1,21 @@
+[debug] [2024-07-25T17:28:34.428Z] ----------------------------------------------------------------------
+[debug] [2024-07-25T17:28:34.432Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\hadar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-25T17:28:34.432Z] CLI Version:   13.14.1
+[debug] [2024-07-25T17:28:34.432Z] Platform:      win32
+[debug] [2024-07-25T17:28:34.432Z] Node Version:  v20.11.1
+[debug] [2024-07-25T17:28:34.432Z] Time:          Thu Jul 25 2024 20:28:34 GMT+0300 (Israel Daylight Time)
+[debug] [2024-07-25T17:28:34.433Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-25T17:28:34.439Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-25T17:28:34.440Z] > authorizing via signed-in user (hadarka@edu.hac.ac.il)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\hadar\VSCodeProjects\Web prog\collaborative-notes
+

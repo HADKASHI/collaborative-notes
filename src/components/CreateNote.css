@@ -1,0 +1,56 @@
+.create-note {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.create-note h2 {
+  margin-bottom: 20px;
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+.create-note input[type="text"],
+.create-note textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+}
+
+.create-note input[type="text"]::placeholder,
+.create-note textarea::placeholder {
+  color: #999;
+}
+
+.create-note textarea {
+  height: 150px;
+  resize: vertical;
+}
+
+.create-note button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-family: "Arial", sans-serif;
+}
+
+.create-note button:hover {
+  background-color: #0056b3;
+}
+
+.create-note button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
