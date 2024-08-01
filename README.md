@@ -1,6 +1,9 @@
 Note-Taking App
 Welcome to the Note-Taking App! This application allows users to create, manage, and organize notes within notebooks. It supports note versioning, authentication, and dynamic content management.
 
+Created By Hadar Kashi
+Video Link - https://youtu.be/3fUz39R7b3k
+
 Features
 User Authentication: Sign up, log in, and manage user sessions.
 Notebook Management: Create and view notebooks.
